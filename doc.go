@@ -1,3 +1,3 @@
 // Package throttled implements rate limiting access to resources such
 // as HTTP endpoints.
-package throttled // import "github.com/stellar/throttled"
+package throttled // import "github.com/aiblocks/throttled"
